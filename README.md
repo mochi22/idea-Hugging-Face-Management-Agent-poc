@@ -1,6 +1,6 @@
 # idea-Hugging-Face-Management-Agent-poc
 this is rocke.chat poc
-
+idea: https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2025.md#-hugging-face-management-assistant-for-rocketchat
 
 # Deploy the app
 Note: Make sure your Rcoket.Chat server is running. And, replace Huggingface access token your own.(This is PoC, therefore token is hardcorded)
