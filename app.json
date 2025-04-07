@@ -1,0 +1,16 @@
+{
+    "id": "32cd35d7-c6ee-423c-b7a8-73bb0d67c059",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "kuraryu",
+        "homepage": "https://rocket.chat",
+        "support": "support@kuraryu"
+    },
+    "name": "kuraryu huggingface test",
+    "nameSlug": "kuraryu-huggingface-test",
+    "classFile": "KuraryuHuggingfaceApp.ts",
+    "description": "this is test",
+    "implements": []
+}
